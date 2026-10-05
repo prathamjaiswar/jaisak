@@ -1,0 +1,1 @@
+﻿Put your own photo files in this folder, then set their paths in the photos array in app.js.
